@@ -8,5 +8,6 @@ background-color: rgb(122, 22, 216);
 /* Wrapper */
 .Wrapper {
 display: flex;
+display: flexbox;
 background-color: rgb(122, 22, 216) ;
 }
