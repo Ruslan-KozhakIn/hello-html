@@ -9,8 +9,8 @@ padding: 40px;
 .Wrapper {
 display: flex;
 background-color: rgb(243, 240, 247) ;
-margin: 0px;
-padding-top: 120px;
+margin: 120 0 0 0px;
+
 }
 
 h1 {
