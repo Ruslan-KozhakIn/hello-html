@@ -8,6 +8,7 @@ padding: 40px;
 /* Wrapper */
 .Wrapper {
 display: flex;
+flex-direction: row;
 display: flexbox;
 background-color: rgb(243, 240, 247) ;
 margin: 0px;
